@@ -1,4 +1,4 @@
      UID     PID    PPID  TTY        STIME COMMAND
+    rino     338      77 pty0     12:27:40 /usr/bin/ps
     rino      77      76 pty0     11:58:26 /usr/bin/bash
     rino      76       1 ?        11:58:26 /usr/bin/mintty
-    rino     294      77 pty0     12:21:53 /usr/bin/ps
